@@ -1,0 +1,40 @@
+* {
+    box-sizing: border-box
+}
+
+.container {
+  width: 100%;
+  background-color: #ddd;
+}
+
+.skills {
+  text-align: right;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  color: white;
+}
+
+.html {
+    width: 70%; 
+    background-color: #58ca61;
+}
+.css {
+    width: 65%; 
+    background-color: #4599df;
+}
+.js {
+    width: 60%; 
+    background-color: #20a5e2;
+}
+.photography {
+    width: 50%; 
+    background-color: #ce6161;
+}
+
+body{
+    background: #9bcccc;
+}
+h1{
+    text-align: center;
+    padding-top: 20px;
+}
